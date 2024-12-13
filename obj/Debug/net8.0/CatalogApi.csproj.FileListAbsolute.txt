@@ -42,3 +42,10 @@ D:\Program Filess (x86)\Proyects\Webscp\CatalogApi\obj\Debug\net8.0\refint\Catal
 D:\Program Filess (x86)\Proyects\Webscp\CatalogApi\obj\Debug\net8.0\CatalogApi.pdb
 D:\Program Filess (x86)\Proyects\Webscp\CatalogApi\obj\Debug\net8.0\CatalogApi.genruntimeconfig.cache
 D:\Program Filess (x86)\Proyects\Webscp\CatalogApi\obj\Debug\net8.0\ref\CatalogApi.dll
+D:\Program Filess (x86)\Proyects\Webscp\CatalogApi\bin\Debug\net8.0\publish\web.config
+D:\Program Filess (x86)\Proyects\Webscp\CatalogApi\bin\Debug\net8.0\web.config
+D:\Program Filess (x86)\Proyects\Webscp\CatalogApi\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\Program Filess (x86)\Proyects\Webscp\CatalogApi\bin\Debug\net8.0\publish\appsettings.json
+D:\Program Filess (x86)\Proyects\Webscp\CatalogApi\bin\Debug\net8.0\publish\CatalogApi.deps.json
+D:\Program Filess (x86)\Proyects\Webscp\CatalogApi\bin\Debug\net8.0\publish\CatalogApi.runtimeconfig.json
+D:\Program Filess (x86)\Proyects\Webscp\CatalogApi\obj\Debug\net8.0\CatalogApi.sourcelink.json
